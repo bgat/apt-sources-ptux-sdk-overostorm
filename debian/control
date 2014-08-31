@@ -1,5 +1,5 @@
 Source: apt-sources-ptux-sdk-overo
-Section: unknown
+Section: embedded
 Priority: extra
 Maintainer: Bill Gatliff <bgat@ptuxvm.billgatliff.com>
 Build-Depends: debhelper (>= 8.0.0)
