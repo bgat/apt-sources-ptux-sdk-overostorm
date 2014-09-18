@@ -1,7 +1,7 @@
 Source: apt-sources-ptux-sdk-overostorm
-Section: unknown
+Section: embedded
 Priority: extra
-Maintainer: Bill Gatliff <bgat@ptuxvm.billgatliff.com>
+Maintainer: Bill Gatliff <bgat@billgatliff.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
